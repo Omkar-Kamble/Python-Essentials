@@ -1,0 +1,16 @@
+# Calculator in python
+
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+
+sum=a+b
+sub=a-b
+mul=a*b
+div1=a/b
+div2=a/b
+
+print("\nAddition is: ",sum)
+print("\nSubtraction is: ",sub)
+print("\nMultiplication is: ",mul)
+print("\nInteger Division is: ",div1)
+print("\nFloating Point Division is: ",div2)
