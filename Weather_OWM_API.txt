@@ -30,4 +30,3 @@ print(
 print(f"Humidity: {data.json().get('main')['humidity']}%")
 print(f"Wind: {data.json().get('wind')['speed']} km/h")
 
-#follow @code_snail on instagram
